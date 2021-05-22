@@ -1,0 +1,25 @@
+.Dices{
+    margin: auto;
+}
+.Dices-row{
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.Dices-button{
+    background-color: #62109cdc;
+    border: none;
+    border-radius: 2px;
+    color: white;
+    padding: 3% 5%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.6rem;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.Dices-button:hover {
+    background-color: #4b0082;
+}
